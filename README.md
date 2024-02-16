@@ -87,10 +87,10 @@ This document lists AI companies and tools categorized by their application area
 - Soundful
 
 ### Law
-- Ross Intelligence
-
+- Leya
+- 
 ### Real Estate
-- Zillow Offers
+- heyPurple
 
 ### Pharmaceutical
 - Unlearn.ai
