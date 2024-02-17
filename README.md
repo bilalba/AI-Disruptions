@@ -143,6 +143,9 @@ This document lists AI companies and tools categorized by their application area
 - Epic Selfie
 - Headshot Pro
 
+### Fashion Modeling
+- generated.photos(https://generated.photos)
+
 ### Spiritual
 - Sibyl AI
 
