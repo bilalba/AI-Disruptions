@@ -144,7 +144,7 @@ This document lists AI companies and tools categorized by their application area
 - Headshot Pro
 
 ### Fashion Modeling
-- generated.photos(https://generated.photos)
+- [generated.photos](https://generated.photos)
 
 ### Spiritual
 - Sibyl AI
